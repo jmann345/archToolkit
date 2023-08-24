@@ -1,0 +1,12 @@
+{
+  "defaultList": "\u003cDefault\u003e",
+  "lists": {
+    "\u003cDefault\u003e": [
+      "BaseMod.jar",
+      "KeyCuts.jar",
+      "mintySpire.jar",
+      "RelicStats.jar",
+      "StSLib.jar"
+    ]
+  }
+}

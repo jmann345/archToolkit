@@ -1,0 +1,99 @@
+[
+  {
+    "title": "StSLib",
+    "id": "5fe9cf6b",
+    "installPath": "/home/jerbot/.local/share/Steam/steamapps/workshop/content/646570/1609158507",
+    "timeUpdated": 1683168243,
+    "tags": [
+      "api"
+    ]
+  },
+  {
+    "title": "Spire with Friends",
+    "id": "8ec47df0",
+    "installPath": "/home/jerbot/.local/share/Steam/steamapps/workshop/content/646570/2395241968",
+    "timeUpdated": 1665249261,
+    "tags": [
+      "multiplayer",
+      "neow",
+      "expansion",
+      "content",
+      "english",
+      "french",
+      "korean",
+      "simplified chinese"
+    ]
+  },
+  {
+    "title": "Relic Stats",
+    "id": "7e459bbd",
+    "installPath": "/home/jerbot/.local/share/Steam/steamapps/workshop/content/646570/2118491069",
+    "timeUpdated": 1632677484,
+    "tags": [
+      "utility",
+      "qol",
+      "english",
+      "french",
+      "simplified chinese"
+    ]
+  },
+  {
+    "title": "Minty Spire (QoL Compilation)",
+    "id": "6c0bf8bb",
+    "installPath": "/home/jerbot/.local/share/Steam/steamapps/workshop/content/646570/1812723899",
+    "timeUpdated": 1662449517,
+    "tags": [
+      "utility",
+      "qol",
+      "english",
+      "korean",
+      "russian",
+      "simplified chinese"
+    ]
+  },
+  {
+    "title": "BaseMod",
+    "id": "5fb7113b",
+    "installPath": "/home/jerbot/.local/share/Steam/steamapps/workshop/content/646570/1605833019",
+    "timeUpdated": 1684296001,
+    "tags": [
+      "api"
+    ]
+  },
+  {
+    "title": "Keyboard Shortcuts",
+    "id": "81891827",
+    "installPath": "/home/jerbot/.local/share/Steam/steamapps/workshop/content/646570/2173245479",
+    "timeUpdated": 1595333537,
+    "tags": [
+      "utility",
+      "qol"
+    ]
+  },
+  {
+    "title": "Steam Multiplayer - Together in Spire",
+    "id": "8e1a110d",
+    "installPath": "/home/jerbot/.local/share/Steam/steamapps/workshop/content/646570/2384072973",
+    "timeUpdated": 1690651073,
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "title": "The Packmaster",
+    "id": "ae0cd072",
+    "installPath": "/home/jerbot/.local/share/Steam/steamapps/workshop/content/646570/2920075378",
+    "timeUpdated": 1690728101,
+    "tags": [
+      "character",
+      "relics",
+      "cards",
+      "potions",
+      "expansion",
+      "content",
+      "rewards",
+      "english",
+      "simplified chinese"
+    ]
+  }
+]
