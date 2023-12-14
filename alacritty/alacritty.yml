@@ -1,0 +1,16 @@
+# Font configuration
+font:
+  family: "Iosevka Nerd Font"
+  style: Regular #Medium?
+  size: 12.0
+
+import:
+ - ~/.config/alacritty/themes/themes/alabaster_dark.yaml 
+
+   #shell:
+   #program: /usr/bin/tmux
+   #args:
+   # - new-session
+
+   #env:
+   #TERM: xterm-256color

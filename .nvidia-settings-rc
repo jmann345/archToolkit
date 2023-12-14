@@ -1,0 +1,17 @@
+#
+# /home/jerbot/.config/.nvidia-settings-rc
+#
+# Configuration file for nvidia-settings - the NVIDIA Settings utility
+# Generated on Fri Aug 25 02:36:45 2023
+#
+
+# ConfigProperties:
+
+RcFileLocale = C
+DisplayStatusBar = Yes
+SliderTextEntries = Yes
+IncludeDisplayNameInConfigFile = Yes
+UpdateRulesOnProfileNameChange = Yes
+
+# Attributes:
+
