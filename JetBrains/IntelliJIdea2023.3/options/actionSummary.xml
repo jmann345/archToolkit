@@ -1,0 +1,154 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="2" l="1702959894763" />
+    </e>
+    <e n="$Delete">
+      <i c="2" l="1702960082438" />
+    </e>
+    <e n="$SelectAll">
+      <i c="5" l="1702960282558" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="1" l="1702959697195" />
+    </e>
+    <e n="CloseProject">
+      <i c="3" l="1702960117707" />
+    </e>
+    <e n="CollapseAll">
+      <i c="2" l="1702723073332" />
+    </e>
+    <e n="CollapseRegion">
+      <i c="1" l="1702961940617" />
+    </e>
+    <e n="CopyPaths">
+      <i c="1" l="1702759743539" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="38" l="1702962155431" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="6" l="1702961443872" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1702961440217" />
+    </e>
+    <e n="EditorDelete">
+      <i c="4" l="1702961702549" />
+    </e>
+    <e n="EditorEnter">
+      <i c="8" l="1702961132427" />
+    </e>
+    <e n="EditorEscape">
+      <i c="88" l="1702962163198" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="91" l="1702960449250" />
+    </e>
+    <e n="ExpandAll">
+      <i c="2" l="1702723076318" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="2" l="1702960774507" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="1" l="1702722623929" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="2" l="1702961959580" />
+    </e>
+    <e n="Maven.ReimportProject">
+      <i c="1" l="1702959853494" />
+    </e>
+    <e n="Maven.RunBuild">
+      <i c="1" l="1702961614801" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1702960666471" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1702961186020" />
+    </e>
+    <e n="NewFile">
+      <i c="2" l="1702960955033" />
+    </e>
+    <e n="NewProject">
+      <i c="2" l="1702758818629" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="5" l="1702961352115" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1702961964082" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1702758663676" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1702960514464" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="3" l="1702961836936" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="2" l="1702960870806" />
+    </e>
+    <e n="ShowSettings">
+      <i c="5" l="1702759822770" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1702723033157" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="3" l="1702960139727" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="4" l="1702960131130" />
+    </e>
+    <e n="com.intellij.codeInsight.documentation.render.DocRenderer$ToggleRenderingAction">
+      <i c="15" l="1702758604431" />
+    </e>
+    <e n="com.intellij.codeInsight.navigation.NavigationGutterIconRenderer$1">
+      <i c="2" l="1702960411091" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1702959714658" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="128" l="1702962244435" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$MarkupModelDelegateAction">
+      <i c="1" l="1702960667921" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="2" l="1702960823876" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1702960414310" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="9" l="1702961899557" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="16" l="1702960115719" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1702960399133" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="6" l="1702758534068" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1702723032700" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="1" l="1702723208070" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="8" l="1702961651819" />
+    </e>
+    <e n="org.jetbrains.idea.maven.importing.workspaceModel.WorkspaceProjectImporter$notifyUserAboutExternalStorageMigration$showNotification$1$1">
+      <i c="1" l="1702959728061" />
+    </e>
+  </component>
+</application>

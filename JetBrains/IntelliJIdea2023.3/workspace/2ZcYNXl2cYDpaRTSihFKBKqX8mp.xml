@@ -1,0 +1,176 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="untitled" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="9" column="8" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="3" lastUsed="1702960108861" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="3" lastUsage="1702960108861" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jerbot/untitled}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jerbot/untitled}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/untitled/.idea}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jerbot/untitled}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/untitled/out}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jerbot/untitled}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/untitled/out}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/untitled/out/production}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jerbot/untitled}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/untitled/out}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/untitled/out/production}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/untitled/out/production/untitled}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jerbot/untitled}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/untitled/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; openjdk-21 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1511000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22128907" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.30291194" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3298828" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.30291194" left="0.22128907" right="0.3298828" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2476" height="384" key="GridCell.Tab.0.bottom" timestamp="1702723121267">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2476" height="384" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1702723121267" />
+    <state width="2476" height="384" key="GridCell.Tab.0.center" timestamp="1702723121267">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2476" height="384" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1702723121267" />
+    <state width="2476" height="384" key="GridCell.Tab.0.left" timestamp="1702723121267">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2476" height="384" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1702723121267" />
+    <state width="2476" height="384" key="GridCell.Tab.0.right" timestamp="1702723121267">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2476" height="384" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1702723121267" />
+    <state x="763" y="313" width="1028" height="839" key="SettingsEditor" timestamp="1702758496259">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="763" y="313" width="1028" height="839" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1702758496259" />
+    <state x="880" y="385" width="800" height="702" key="new project wizard" timestamp="1702758554554">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="880" y="385" width="800" height="702" key="new project wizard/0.0.2560.1440@0.0.2560.1440" timestamp="1702758554554" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="9" column="8" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

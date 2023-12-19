@@ -1,0 +1,284 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="RelicUpgrades" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/ModTheSpire.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/RelicUpgrades.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="2" lastUsed="1702961191213" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="1" lastUsed="1702960964289" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="2" lastUsed="1702960346568" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" />
+      <option value="$PROJECT_DIR$/src/main/java/RelicUpgrades.java" />
+    </changedPaths>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1702961191213" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1702960964289" />
+    </language>
+    <language id="XML">
+      <summary usageCount="2" lastUsage="1702960346568" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="RelicUpgrades" type="20da4fc8:ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="RelicUpgrades" type="20da4fc8:ProjectNode" />
+          <item name="Lifecycle" type="d32bdb1e:LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RelicUpgrades" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RelicUpgrades" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RelicUpgrades" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RelicUpgrades" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RelicUpgrades" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jerbot/RelicUpgrades/RelicUpgrades/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RelicUpgrades" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="RelicUpgrades" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="RelicUpgrades" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="dir{jar:///home/jerbot/java_stsmodding/jdk1.8.0_202/jre/lib/charsets.jar!/}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3169000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16413108" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32969925" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32969925" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.22969925" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32978725" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="4" visible="true" weight="0.14306612" />
+      <unified_weights bottom="0.22969925" left="0.16413108" right="0.14306612" />
+    </layoutV2>
+    <recentWindows>
+      <value>Maven</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Build</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="124" y="345" width="1028" height="839" key="#Project_Structure" timestamp="1702960944976">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="124" y="345" width="1028" height="839" key="#Project_Structure/0.0.2560.1440@0.0.2560.1440" timestamp="1702960944976" />
+    <state x="424" y="526" width="428" height="478" key="FileChooserDialogImpl" timestamp="1702960768785">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="424" y="526" width="428" height="478" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1702960768785" />
+    <state width="1625" height="263" key="GridCell.Tab.0.bottom" timestamp="1702961958686">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1625" height="263" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1702961958686" />
+    <state width="1625" height="263" key="GridCell.Tab.0.center" timestamp="1702961958686">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1625" height="263" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1702961958686" />
+    <state width="1625" height="263" key="GridCell.Tab.0.left" timestamp="1702961958683">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1625" height="263" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1702961958683" />
+    <state width="1625" height="263" key="GridCell.Tab.0.right" timestamp="1702961958686">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1625" height="263" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1702961958686" />
+    <state x="124" y="345" width="1028" height="839" key="SettingsEditor" timestamp="1702960925699">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="124" y="345" width="1028" height="839" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1702960925699" />
+    <state x="374" y="476" width="528" height="578" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1702961353219">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="374" y="476" width="528" height="578" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1702961353219" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/lib/maven-model-builder-3.9.5.jar!/org/apache/maven/model/pom-4.0.0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ModTheSpire.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RelicUpgrades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RelicUpgrades</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

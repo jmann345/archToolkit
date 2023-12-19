@@ -1,0 +1,184 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">ZXhhbXBsZQ==</entry>
+        <entry encoding="base64">RXhhbXBsZQ==</entry>
+        <entry encoding="base64">RGVmYXVsdE1vZA==</entry>
+        <entry encoding="base64">VE9ETw==</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/SlayTheSpire_RelicUpgrades">
+      <jump line="0" column="0" filename="$USER_HOME$/SlayTheSpire_RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/SlayTheSpire_RelicUpgrades/pom.xml" />
+      <jump line="7" column="0" filename="$USER_HOME$/SlayTheSpire_RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/SlayTheSpire_RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="9" column="3" filename="$USER_HOME$/SlayTheSpire_RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="11" column="12" filename="$USER_HOME$/SlayTheSpire_RelicUpgrades/src/main/java/org/example/Main.java" />
+    </project>
+    <project id="$USER_HOME$/RelicUpgrades">
+      <jump line="6" column="10" filename="$USER_HOME$/RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="14" column="35" filename="$USER_HOME$/RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="9" column="41" filename="$USER_HOME$/RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="67" column="10" filename="$USER_HOME$/RelicUpgrades/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/RelicUpgrades/pom.xml" />
+      <jump line="56" column="68" filename="$USER_HOME$/RelicUpgrades/pom.xml" />
+      <jump line="11" column="17" filename="$USER_HOME$/RelicUpgrades/pom.xml" />
+      <jump line="8" column="14" filename="$USER_HOME$/RelicUpgrades/pom.xml" />
+      <jump line="26" column="19" filename="$USER_HOME$/RelicUpgrades/pom.xml" />
+      <jump line="16" column="25" filename="$USER_HOME$/RelicUpgrades/pom.xml" />
+    </project>
+    <project id="$USER_HOME$/RelicUpgrades/RelicUpgrades">
+      <jump line="0" column="0" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/pom.xml" />
+      <jump line="16" column="9" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/pom.xml" />
+      <jump line="74" column="8" filename="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/lib/maven-model-builder-3.9.5.jar!/org/apache/maven/model/pom-4.0.0.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/org/example/Main.java" />
+      <jump line="67" column="9" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/pom.xml" />
+      <jump line="22" column="24" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/pom.xml" />
+      <jump line="36" column="31" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/pom.xml" />
+      <jump line="65" column="15" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/pom.xml" />
+      <jump line="27" column="21" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/pom.xml" />
+      <jump line="34" column="0" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/pom.xml" />
+      <jump line="31" column="31" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/pom.xml" />
+      <jump line="8" column="7" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/resources/ModTheSpire.json" />
+      <jump line="504" column="0" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="6" column="27" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="70" column="25" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="79" column="73" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="170" column="23" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="238" column="37" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="258" column="37" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="260" column="41" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="278" column="56" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="439" column="33" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="463" column="69" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="467" column="69" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="471" column="69" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="475" column="69" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="479" column="69" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="483" column="69" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="487" column="69" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="507" column="94" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="11" column="42" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="437" column="28" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="524" column="1" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="24" column="44" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="40" column="2" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="41" column="2" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="42" column="2" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="43" column="2" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="48" column="2" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="187" column="11" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="90" column="78" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="7" column="17" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/resources/ModTheSpire.json" />
+      <jump line="228" column="0" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="51" column="51" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="49" column="70" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="50" column="34" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="139" column="55" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="291" column="48" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+      <jump line="165" column="4" filename="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/resources/ModTheSpire.json" timestamp="1702961177231">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/untitled/src/Main.java" timestamp="1702960117824">
+        <mark key="&quot;" line="9" column="8" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/SlayTheSpire_RelicUpgrades/src/main/java/org/example/Main.java" timestamp="1702759215757">
+        <mark key="&quot;" line="11" column="12" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/RelicUpgrades/RelicUpgrades/src/main/java/RelicUpgrades.java" timestamp="1702962231540">
+        <mark key="'" line="165" column="4" />
+        <mark key="[" line="111" column="55" />
+        <mark key="]" line="111" column="55" />
+        <mark key="." line="111" column="54" />
+        <mark key="^" line="111" column="55" />
+      </file>
+      <file name="$USER_HOME$/RelicUpgrades/RelicUpgrades/pom.xml" timestamp="1702960512459">
+        <mark key="'" line="36" column="31" />
+        <mark key="[" line="56" column="85" />
+        <mark key="]" line="56" column="98" />
+        <mark key="." line="56" column="97" />
+        <mark key="^" line="56" column="98" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/lib/maven-model-builder-3.9.5.jar!/org/apache/maven/model/pom-4.0.0.xml" timestamp="1702960414319">
+        <mark key="&quot;" line="74" column="8" />
+      </file>
+      <file name="$USER_HOME$/RelicUpgrades/pom.xml" timestamp="1702960102141">
+        <mark key="&quot;" line="13" column="25" />
+        <mark key="'" line="67" column="10" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/SlayTheSpire_RelicUpgrades/pom.xml" timestamp="1702759215753">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/RelicUpgrades/src/main/java/org/example/Main.java" timestamp="1702759908058">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="48" />
+        <mark key="^" line="9" column="48" />
+        <mark key="." line="9" column="47" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBVFRBQ0tfREVGQVVMVF9HUkFZID0gImNlcy9pbWFnZXMvNTEyL2JnX2F0dGFja19kZWZhdWx0X2dyYXkucG5nIjsK</text>
+      </register>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">dGhlRGVmYXVsdA==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">dGhlRGVmYXVsdA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">VE9ETw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">VE9ETw==</last-search>
+      <last-pattern encoding="base64">VE9ETw==</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

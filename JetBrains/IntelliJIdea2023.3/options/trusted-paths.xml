@@ -1,0 +1,13 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/RelicUpgrades" value="true" />
+        <entry key="$USER_HOME$/RelicUpgrades/RelicUpgrades" value="true" />
+        <entry key="$USER_HOME$/SlayTheSpire_RelicUpgrades" value="true" />
+        <entry key="$USER_HOME$/test" value="true" />
+        <entry key="$USER_HOME$/untitled" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
